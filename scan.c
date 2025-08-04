@@ -11,7 +11,7 @@ int main(){
         }
         printf("enter initial head position:");
         scanf("%d",&initial);
-        printf("enter total disk size");
+        printf("enter total disk size:");
         scanf("%d\n",&size);
         printf("enter the head direction for high 1 and for low 0:");
         scanf("%d\n",&move);
